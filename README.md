@@ -1,4 +1,4 @@
-# Planejamento-Agil-SLDC-2
+# Planejamento-Agil-SDLC-2
 
 # Planejamento Ágil - Projeto QuadroVerse
 
